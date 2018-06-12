@@ -26,7 +26,7 @@ There are three tables used:
 
 ## Submission
 
-Your submission should be a PDF that includes:
+Project submission should be a PDF that includes:
 
 * An outline of steps taken to prepare the data to be visualized in the chart, such as:
       * What tools did you use for each step? (Python, SQL, Excel, etc)
